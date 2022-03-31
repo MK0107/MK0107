@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/Minseo%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/MK0107)](https://github.com/MK0107)
 [![Gmail](https://img.shields.io/badge/Minseo%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:minseo0321@gmail.com)](mailto:minseo0321@gmail.com)
 
-- :office: Alumni @Hack Reactor [HR](https://hackreactor.com/)
+- :office: Alumni @[Hack Reactor](https://hackreactor.com/)
 - :round_pushpin: Based in Los Angeles, CA
 - :smile: Pronouns: he/him/his
 
@@ -23,4 +23,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
-
