@@ -1,8 +1,7 @@
 ## Hi there! I'm Minseo Kim 👋
 
-[![LinkedIn](https://img.shields.io/badge/Minseo%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mk0107/)](https://www.linkedin.com/in/mk0107/)
-[![GitHub](https://img.shields.io/badge/Minseo%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/MK0107)](https://github.com/MK0107)
-[![Gmail](https://img.shields.io/badge/Minseo%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:minseo0321@gmail.com)](mailto:minseo0321@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%23323330.svg?logo=LinkedIn&style=for-the-badge&logoColor=blue&color=white)](https://www.linkedin.com/in/mk0107/)
+[![LinkedIn](https://img.shields.io/badge/Gmail%20-%23323330.svg?logo=Gmail&style=for-the-badge&logoColor=red&color=white)](mailto:minseo0321@gmail.com)
 
 - :office: Alumni @[Hack Reactor](https://hackreactor.com/)
 - :round_pushpin: Based in Los Angeles, CA
